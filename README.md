@@ -22,7 +22,7 @@ The Educational Portal offers the following features:
 
 ## Hosted Website 🌐
 
-You can access the hosted version of the project here: [Educational Portal](https://salaberga.com)  
+You can access the hosted version of the project here: [Educational Portal](https://salaberga.com/salaberga/portalsalaberga/app/main/)  
 
 ## Note ℹ️
 
